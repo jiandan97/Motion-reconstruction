@@ -1,4 +1,6 @@
-# Schematic illustration of dataset and network architecture
+Title – Asymmetric Architecture toward Waveform Encoding for Multidimensional Motion Perception in Perovskite Photodetectors
+
+## Schematic illustration of dataset and network architecture
 
 ![image-20251004160432686](functions/explain.png)
 
