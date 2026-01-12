@@ -1,4 +1,4 @@
-# Asymmetric Architecture toward Waveform Encoding for Multidimensional Motion Perception in Perovskite Photodetectors
+# Asymmetric Architecture toward Waveform Encoding for Motion Perception in Perovskite Photodetectors
 
 ## Abstract
 
