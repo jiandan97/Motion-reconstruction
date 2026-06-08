@@ -8,7 +8,9 @@ Reliable motion perception from visual signals is essential for intelligent syst
 
 The photocurrent response of the device under varying light intensity, motion direction, and speed.
 
-![image-20251004160432686](functions/dataset.png)
+<p align="center">
+  <img src="functions/dataset.png" width="700">
+</p>
 
 ## network
 
